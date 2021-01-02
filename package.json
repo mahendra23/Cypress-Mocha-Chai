@@ -1,0 +1,22 @@
+{
+  "name": "cypress-mocha-chai",
+  "version": "1.0.0",
+  "description": "Testing web and api using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendra23/Cypress-Mocha-Chai.git"
+  },
+  "author": "Mahendra Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendra23/Cypress-Mocha-Chai/issues"
+  },
+  "homepage": "https://github.com/mahendra23/Cypress-Mocha-Chai#readme",
+  "devDependencies": {
+    "cypress": "^6.2.0"
+  }
+}
